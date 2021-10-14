@@ -1,6 +1,5 @@
-Hi, I’m @annssshhhh
-I’m interested in Business Analytics.
-I’m currently learning R and SQL.
+Hi, Ansh Arya here.
+I’m interested in Business Analytics, and currently learning R and SQL.
 Connect with me through instagram @annssshhhh or E-mail: theansharya@gmail.com
 
 <!---

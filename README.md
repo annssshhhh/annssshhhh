@@ -1,5 +1,5 @@
 Hi, Ansh Arya here.
-I’m interested in Business Analytics, and currently learning R and SQL.
+I’m interested in Business Analytics & Data Analytics, and currently learning Python and SQL.
 Connect with me through:
 linkedin - https://www.linkedin.com/in/annssshhhh/,
 instagram - @annssshhhh,
